@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2044 2044" width="2044" height="2044">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="294.303" y1="1134.823" x2="2043.959" y2="1134.823">
+			<stop offset="0" stop-color="#d7df00"  />
+			<stop offset="0.56" stop-color="#7ac517"  />
+			<stop offset="0.83" stop-color="#30a824"  />
+			<stop offset="1" stop-color="#00952d"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="0.311" y1="1040.155" x2="302.904" y2="1040.155">
+			<stop offset="0" stop-color="#32c0e4"  />
+			<stop offset="1" stop-color="#2348aa"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="297.825" y1="684.925" x2="608.74" y2="684.925">
+			<stop offset="0" stop-color="#32c0e4"  />
+			<stop offset="1" stop-color="#2348aa"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="582.313" y1="566.607" x2="1228.226" y2="566.607">
+			<stop offset="0" stop-color="#32c0e4"  />
+			<stop offset="1" stop-color="#2348aa"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="903.722" y1="567.29" x2="1581.189" y2="567.29">
+			<stop offset="0" stop-color="#32c0e4"  />
+			<stop offset="1" stop-color="#2348aa"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+		.shp2 { fill: url(#grd3) } 
+		.shp3 { fill: url(#grd4) } 
+		.shp4 { fill: url(#grd5) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<g id="Layer">
+					<g id="Layer">
+						<g id="Layer">
+							<path id="Layer" class="shp0" d="M520.52,1906.6c293.81,173.69 696.38,183.93 978.71,23.38c365.14,-207.5 534.01,-548.05 544.46,-907.86c8.22,-292.95 -168.17,-651.31 -373.81,-796.88c206.58,488.84 -246.9,710.22 -608.27,817.05c-213.38,62.81 -434.15,138.66 -588.48,291.09c-139.19,137.21 -202.12,367.09 -171.08,511.51c157.79,-494.05 547.56,-451.91 745.46,-448.97c229.22,3.37 490.13,-28.88 583.09,-152.84c49.87,467.81 -433.7,721.77 -726.9,670.91c231.27,-88.95 406.7,-233.41 448.41,-358.24c-196.69,189 -565.47,319.1 -831.59,350.82z" />
+							<path id="Layer" class="shp1" d="M172.4,1647.19c155.56,-170.22 158.28,-445.8 80.16,-659.49c-64.75,-176.66 -119.32,-355.17 -110.17,-554.02c-127.42,164.84 -202.33,467.71 -79.77,698.51c77.77,146.77 155.6,291.11 109.78,515z" />
+							<path id="Layer" class="shp2" d="M359.77,1309.49c192.74,-143.24 239.4,-369.74 187.16,-609.43c-62.14,-284.72 -21.34,-488.92 61.81,-639.85c-278.34,106.96 -381.33,304.52 -261.8,727.69c59.74,211.59 99.64,381.25 12.84,521.59z" />
+							<path id="Layer" class="shp3" d="M582.31,1132.98c216.63,-59.38 307.42,-222.11 351.55,-561.75c26,-201.06 93.71,-449.19 294.34,-562.4c-303.34,-53 -565.39,136.02 -535.81,611.48c11.04,177.84 39.71,318.48 -110.06,512.65z" />
+							<path id="Layer" class="shp4" d="M903.72,993.36c287.19,-67.67 388.3,-223.36 445.35,-398.75c55.84,-171.79 121.9,-342.25 232.11,-432.41c-289.54,-82.37 -410.6,81.18 -484.49,411.19c-30.62,136.55 -44.01,281.47 -192.95,419.96z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
